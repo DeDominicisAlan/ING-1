@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="MLvQ_4L37XVHuYymwXSk">
+    <mxGraphModel dx="2253" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="piQsJX4ta8pjL7Ld54UH-1" target="piQsJX4ta8pjL7Ld54UH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="piQsJX4ta8pjL7Ld54UH-2" target="piQsJX4ta8pjL7Ld54UH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-2" value="Esperando&lt;div&gt;seleccion&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="265" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-5" value="Se presiona el boton &amp;lt;encendido&amp;gt; / Accion 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-6" value="Accion1: Iniciar en modo reposo, Habilitar display, mostar mensaje de bienvenida,&amp;nbsp;&lt;div&gt;establecer velocidad en 0, mostrar velocidad, mostrar boton &#39;+&#39;, mostrar boton &#39;-&#39;.&lt;/div&gt;&lt;div&gt;mostrar opciones de entrenamiento. (inicial, intermedio y maximo)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="85" width="460" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-7" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-9" value="Se presiono el boton &amp;lt;apagado&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="piQsJX4ta8pjL7Ld54UH-12" target="piQsJX4ta8pjL7Ld54UH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-12" value="Funcionando" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="660" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-13" value="Se selecciono un entrenamiento&lt;div&gt;/ Establecer entrenamiento. Establecer velocidad.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Mostrar boton &#39;fin de programa&#39;. Encender cinta.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-15" value="Se presionó el boton &amp;lt;+&amp;gt; [velocidad &amp;lt; 9] / aumentar velocidad en 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-17" value="Se presionó el boton &amp;lt;+&amp;gt; [Velocidad es 9] / Mostar mensaje &#39;La velocidad está al maximo&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="770" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-19" value="Se seleccionó un entrenamiento&lt;div&gt;/ Cambiar entrenamiento&lt;/div&gt;&lt;div&gt;Establecer velocidad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="680" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="910" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-22" value="Se presiono el boton &amp;lt;apagado&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="850" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-24" value="Se selecciono &amp;lt;fin de programa&amp;gt;&lt;div&gt;/Establecer velocidad en 0.&lt;/div&gt;&lt;div&gt;Apagar cinta.&lt;/div&gt;&lt;div&gt;Esconder boton &#39;fin de programa&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-26" value="Se presiono el boton &amp;lt;-&amp;gt; [velocidad &amp;gt; 0]&lt;div&gt;/Disminuir velocidad en 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="piQsJX4ta8pjL7Ld54UH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="720" />
+              <mxPoint x="560" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="800" />
+              <mxPoint x="560" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="730" as="sourcePoint" />
+            <mxPoint x="310" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="730" />
+              <mxPoint x="310" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="810" as="sourcePoint" />
+            <mxPoint x="310" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="810" />
+              <mxPoint x="310" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="piQsJX4ta8pjL7Ld54UH-12" target="piQsJX4ta8pjL7Ld54UH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="660" as="sourcePoint" />
+            <mxPoint x="420" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piQsJX4ta8pjL7Ld54UH-39" value="Se presiono el boton &amp;lt;-&amp;gt;&lt;div&gt;[velocidad es 1] /&lt;/div&gt;&lt;div&gt;Disminuir velocidad en 1.&lt;/div&gt;&lt;div&gt;Apagar cinta.&lt;/div&gt;&lt;div&gt;Esconder boton &#39;fin de programa&#39;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="475" width="200" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

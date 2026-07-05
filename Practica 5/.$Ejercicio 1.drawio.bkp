@@ -1,0 +1,78 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="joE2MShbHN-436P-poIw">
+    <mxGraphModel dx="1678" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-1" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.506;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CLUNGbGeAnkIl1OWyTbv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="280" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-3" value="Llega una papa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLUNGbGeAnkIl1OWyTbv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-5" value="Papa esperando a la maquina&lt;div&gt;de quitado de cascara&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="234" y="530" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-7" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-8" value="La papa pasa a la maquina&lt;div&gt;de quitado de cascara&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="355" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="479.41" as="targetPoint" />
+            <mxPoint x="530" y="479.41" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-11" value="Quitando cascara a la papa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="530" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="479.41" as="targetPoint" />
+            <mxPoint x="770" y="479.41" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-13" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="400" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-14" value="La papa pasa al deposito&lt;div&gt;de la proxima etapa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="355" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-15" value="Ejercicio 1. Fábrica de papas bastón crudas.&#xa;Las papas llegan de a una y se depositan en un contenedor común. El primer paso es pasar la papa por una máquina que quita la cáscara. Esta máquina solo puede atender a una papa a la vez. Las papas peladas son depositadas en un contenedor común a la espera de la próxima etapa. La cáscara por su parte, es depositada en un basurero general.&#xa;Luego, cada papa cruda debe ser cortada. Para esto, la papa pasa por una máquina que corta las papas en 9 bastones. Esta máquina solo puede procesar una papa a la vez. Una vez cortados, los bastones de papas son agrupados de a 10 para ser envasados. Esto lo realiza una máquina que solo procesa una bolsa por vez. Por último, las bolsas son depositadas en un contenedor común para ser distribuidas." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="790" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.189;exitY=0.741;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLUNGbGeAnkIl1OWyTbv-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777" y="310" as="sourcePoint" />
+            <mxPoint x="758.2842712474439" y="238.28427124744394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLUNGbGeAnkIl1OWyTbv-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.189;exitY=0.741;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="432" as="sourcePoint" />
+            <mxPoint x="705" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

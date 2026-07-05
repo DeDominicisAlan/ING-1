@@ -1,0 +1,121 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="joE2MShbHN-436P-poIw">
+    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lT326OnWkDPiPEB7NU7h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-1" target="lT326OnWkDPiPEB7NU7h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-2" target="lT326OnWkDPiPEB7NU7h-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-2" value="Esperando&lt;div&gt;seleccion&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-4" value="Se presiona boton &amp;lt;encendido&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="198" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-5" value="Lavando" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-2" target="lT326OnWkDPiPEB7NU7h-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-7" value="Se presiona boton &amp;lt;Lavado&amp;gt;&lt;div&gt;/Dejar entrar agua.&lt;/div&gt;&lt;div&gt;Activar motor en modo latente.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-8" value="Enjuagando" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-5" target="lT326OnWkDPiPEB7NU7h-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="550" as="sourcePoint" />
+            <mxPoint x="170" y="626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-11" value="Finaliza el lavado / Se deja cambiar el agua.&lt;div&gt;Activar motor en modo latente.&lt;/div&gt;&lt;div&gt;iniciar contador de tiempo.&lt;/div&gt;&lt;div&gt;Establecer cantidad de enjuagues&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="515" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.192;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-8" target="lT326OnWkDPiPEB7NU7h-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+            <mxPoint x="450" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-13" value="Termina el enjuague&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Cantidad de enjuagues &amp;gt; 0]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/Disminuir cantidad de enjuagues en 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Se deja cambiar el agua.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;reiniciar contador tiempo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="620" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-14" value="Centrifugando" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-2" target="lT326OnWkDPiPEB7NU7h-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="787" y="340" as="sourcePoint" />
+            <mxPoint x="600" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-8" target="lT326OnWkDPiPEB7NU7h-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="600" as="sourcePoint" />
+            <mxPoint x="834" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-17" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Termina%20el%20enjuague%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%20color%3A%20light-dark(rgb(0%2C%200%2C%200)%2C%20rgb(255%2C%20255%2C%20255))%3B%26quot%3B%26gt%3B%5BCantidad%20de%20enjuagues%20%26amp%3Bgt%3B%200%5D%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20transparent%3B%20color%3A%20light-dark(rgb(0%2C%200%2C%200)%2C%20rgb(255%2C%20255%2C%20255))%3B%26quot%3B%26gt%3B%2FSe%20deja%20cambiar%20el%20agua.%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BActivar%20motor%20en%20modo%20latente.%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22315%22%20y%3D%22630%22%20width%3D%22190%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="538" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-19" value="Termina el enjuague&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Cantidad de enjuagues es 0]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;/Desactivar motor en modo latente.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Se deja escurrir el agua.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Activar motor en modo centrifugado.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="510" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-20" value="Se presiona boton &amp;lt;Enjuague&amp;gt;&lt;div&gt;/Dejar entrar agua.&lt;/div&gt;&lt;div&gt;Activar motor en modo latente.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-22" value="Se presiona boton &amp;lt;Enjuage&amp;gt;&lt;div&gt;/Establecer cantidad de enjuagues&lt;/div&gt;&lt;div&gt;Se deja cambiar el agua&lt;/div&gt;&lt;div&gt;Activar motor en modo latente.&lt;/div&gt;&lt;div&gt;iniciar contador de tiempo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-24" target="lT326OnWkDPiPEB7NU7h-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-24" value="Esperando puerta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-25" value="Se abre la puerta&lt;div&gt;[Durante el centrifugado]/&lt;/div&gt;&lt;div&gt;Apagar motor.&lt;/div&gt;&lt;div&gt;Emitir pitido de error.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="368" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-27" value="Se cierra la puerta&lt;div&gt;/ Activar motor en modo centrifugado.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="483" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lT326OnWkDPiPEB7NU7h-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="490" as="sourcePoint" />
+            <mxPoint x="940" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=12;" vertex="1" parent="1">
+          <mxGeometry x="940" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lT326OnWkDPiPEB7NU7h-31" value="Se presiona boton &amp;lt;apagar&amp;gt;&lt;div&gt;/detener motor.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="623" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,150 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Página-1" id="MLvQ_4L37XVHuYymwXSk">
+    <mxGraphModel dx="2253" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-1" target="rIteGnSiUwmT1-oTSwq_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="280" />
+              <mxPoint x="540" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-3" target="rIteGnSiUwmT1-oTSwq_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="460" />
+              <mxPoint x="520" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-3" target="rIteGnSiUwmT1-oTSwq_-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="370" />
+              <mxPoint x="300" y="620" />
+              <mxPoint x="110" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="320" />
+              <mxPoint x="441" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-3" value="Esperando&lt;div&gt;disponibilidad de una&lt;/div&gt;&lt;div&gt;ambulancia&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-5" value="Se recibe una notificacion&lt;div&gt;/ Registrar accidente. Registrar direccion.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-8" target="rIteGnSiUwmT1-oTSwq_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="555" />
+              <mxPoint x="820" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-8" target="rIteGnSiUwmT1-oTSwq_-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-8" value="Siguiendo ambulancia a destino" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-10" value="Se actualiza el sistema [ambulancia disponible,&amp;nbsp;&lt;div&gt;no hay imperfecto] /&lt;div&gt;Asignar ambulancia.&lt;/div&gt;&lt;div&gt;Establecer estado de ambulancia &quot;Ocupada&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Enviar direccion.&lt;/div&gt;&lt;div&gt;Iniciar seguimiento de trayecto.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="418" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-12" value="Se actualiza el sistema [No hay ambulancias disponibles&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;] /&lt;/span&gt;&lt;div&gt;&lt;div&gt;Indicar estado de ambulancia.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-14" value="Se cancelo el trayecto /&lt;div&gt;Cancelar operacion de seguimiento.&lt;/div&gt;&lt;div&gt;Asignar ambulancia a estado &quot;Libre&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-16" target="rIteGnSiUwmT1-oTSwq_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-16" target="rIteGnSiUwmT1-oTSwq_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-16" value="Esperando confirmacion de gravedad" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-17" value="Se llegó a destino" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-22" value="Se recibe notificacion del medico [no es grave] /&amp;nbsp;&lt;div&gt;Asignar ambulancia a estado &quot;Libre&quot;.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-24" target="rIteGnSiUwmT1-oTSwq_-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-24" target="rIteGnSiUwmT1-oTSwq_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="700" />
+              <mxPoint x="-160" y="700" />
+              <mxPoint x="-160" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-24" value="Siguiendo ambulancia a hospital" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-26" value="Se recibe notificacion del medico [es grave] /&amp;nbsp;&lt;div&gt;Buscar ubicacion de hospital mas cerncano.&lt;/div&gt;&lt;div&gt;Enviar ubicacion.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="790" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-28" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-30" value="Se entregó al paciente / Asignar ambulancia a estado &quot;Libre&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="740" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-32" value="Se notificó un imperfecto /&amp;nbsp;&lt;div&gt;Asignar ambulancia&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;Fuera de servicio&quot;.&amp;nbsp;&lt;div&gt;Desasignar&amp;nbsp;&lt;/div&gt;&lt;div&gt;ambulancia seleccionada.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="423" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-34" value="Se notifico un imperfecto /&amp;nbsp;&lt;div&gt;Asignar ambulancia &quot;Fuera de servicio&quot;.&amp;nbsp;&lt;div&gt;Enviar direccion del imperfecto.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="640" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-37" target="rIteGnSiUwmT1-oTSwq_-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="620" />
+              <mxPoint x="80" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-37" value="Siguiendo ambulancia hacia el imperfecto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="438" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-39" value="Se actualiza el sistema [ambulancia disponible,&lt;div&gt;hay imperfecto] /&lt;div&gt;Asignar ambulancia. Enviar direccion.&lt;/div&gt;&lt;div&gt;Iniciar seguimiento de trayecto.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="555" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-41" value="Se llego a la ubicacion&lt;div&gt;del imperfecto&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="498" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIteGnSiUwmT1-oTSwq_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rIteGnSiUwmT1-oTSwq_-8" target="rIteGnSiUwmT1-oTSwq_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

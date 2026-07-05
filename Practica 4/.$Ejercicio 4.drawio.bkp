@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Página-1" id="i862_T_tGDugDCHpXG87">
+    <mxGraphModel dx="1426" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W2c3V0PBezsvP5jcPkd-1" target="8W2c3V0PBezsvP5jcPkd-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="410" />
+              <mxPoint x="465" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W2c3V0PBezsvP5jcPkd-1" target="8W2c3V0PBezsvP5jcPkd-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="410" />
+              <mxPoint x="385" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-1" value="&lt;div&gt;Funcionando&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W2c3V0PBezsvP5jcPkd-2" target="8W2c3V0PBezsvP5jcPkd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="402" y="170" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-5" value="Se giró la perilla /&amp;nbsp;&lt;div&gt;Encender motor. Accion 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-6" value="Accion 1: Aumentar la velocidad en 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="468" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-7" value="Accion 2: Disminuir la velocidad en 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="498" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W2c3V0PBezsvP5jcPkd-1" target="8W2c3V0PBezsvP5jcPkd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-14" value="Se giró la perilla a la derecha [Funcionando en nivel 3]&lt;div&gt;/ Accion 3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="413" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-15" value="Accion 3: Apagar motor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="528" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-16" value="Se giró la perilla a la izquierda [Funcionando en nivel 1]&lt;div&gt;/ Accion 3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="413" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-17" value="Se giró la perilla a la derecha&lt;div&gt;&amp;nbsp;[Funcionando en nivel 1 o nivel 2] /&amp;nbsp;&lt;div&gt;Accion 1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-18" value="Se giró la perilla a la izquierda&lt;div&gt;&amp;nbsp;[Funcionando en nivel 3 o nivel 2] /&amp;nbsp;&lt;div&gt;Accion 2&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8W2c3V0PBezsvP5jcPkd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W2c3V0PBezsvP5jcPkd-1" target="8W2c3V0PBezsvP5jcPkd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="320" />
+              <mxPoint x="320" y="360" />
+              <mxPoint x="334" y="360" />
+              <mxPoint x="334" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
